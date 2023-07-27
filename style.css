@@ -5,16 +5,22 @@ html {
   
 }
 
+/*header is centered and margins are even all around*/
+
 header {
   text-align: center;
    margin: 5px 5px 5px 5px;
 }
+
+/*h3 is big and centered*/
 
 h3 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';
   font-size: 45px;
    text-align: center;
 }
+
+/*ol and ul are identical. Keep this uniformed for easy reading*/
 
 ol {
     font-family: 'Arial Narrow', 'Franklin Gothic Medium', 'Arial', 'sans-serif';  
@@ -32,12 +38,16 @@ ul {
    
 }
 
+/*paragraphs should also be consistent in style throughout*/
+
 p {
   font-family: 'Arial Narrow', 'Franklin Gothic Medium', 'Arial', 'sans-serif';  
   font-size: 16px;
   padding-left: 500px;
   padding-right: 500px; 
 }
+
+/*image to align with rest of page*/
 
 img {
 height: 200px; 
@@ -49,6 +59,8 @@ padding-left: 575px;
 
 }
 
+/*spacing*/
+
   div {
   padding-top: 20px;
   padding-right: 30px;
@@ -56,13 +68,15 @@ padding-left: 575px;
   padding-left: 80px;
 }
 
+/*footer also aligned with rest of page*/
+
 footer {
   text-align: center;
 }
 
 
 main {
-  color: 9B7E46; 
+   background-color: 9B7E46; 
 }
 
 /*background, color, font-family, font-size,
